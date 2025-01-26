@@ -22,13 +22,9 @@
 
 <p align="center">
     Ouça agora o Podcast
-    <a href="https://github.com/OtinielCPinheiro/Arquivos/blob/main/Podcast_Editado.MP3"> <img width="48" height="48" src="https://img.icons8.com/doodle/48/book.png" alt="book"/> Clique aqui para ouvir</a>
+    <a href="https://github.com/OtinielCPinheiro/Arquivos/blob/main/Podcast_Editado.MP3" src="https://img.icons8.com/doodle/48/book.png" alt="book"/> Clique aqui para ouvir</a>
     
 </p>
-
-<div align="center">
-    <audio src="https://github.com/OtinielCPinheiro/Arquivos/blob/main/Podcast_Editado.MP3" controls title="Podcast editado"></audio>Clique aqui para ouvir</a>
-</div>
 
 # Projeto Podcast Gerado por I.A.s
 

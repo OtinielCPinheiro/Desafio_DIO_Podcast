@@ -22,7 +22,19 @@
 
 <p align="center">
     Ouça agora o Podcast
-    <a href="https://github.com/OtinielCPinheiro/Arquivos/blob/main/Podcast_Editado.MP3" src="https://img.icons8.com/doodle/48/book.png" alt="book"/> Clique aqui para ouvir</a>
+    <!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Reprodutor de Música</title>
+</head>
+<body>
+    <audio controls>
+        <source src="https://github.com/OtinielCPinheiro/Arquivos/raw/main/Podcast_Editado.MP3" type="audio/mp3">
+            </audio>
+</body>
+</html>
     
 </p>
 

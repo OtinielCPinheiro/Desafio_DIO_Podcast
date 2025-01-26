@@ -2,7 +2,7 @@
 
 <p align="center">
 <img 
-    src="./Imagens/Um fundo mais casual e colorido para uma capa de podcast com um homem de pele morena, cabelo e barba curtos, olhos castanhos, em um terno corporativo padrão, com uma expressão facial amigável e aparente boa vontade (1).png"
+    src="https://github.com/OtinielCPinheiro/Imagens/blob/main/A%20more%20casual%20and%20colorful%20background%20for%20a%20podcast%20cover%20featuring%20a%20man%20with%20brown%20skin%2C%20short%20hair%20and%20beard%2C%20brown%20eyes%2C%20in%20a%20standard%20corporate%20suit%2C%20with%20a%20friendly%20facial%20expression%20and%20apparent%20willingn%20(1).png"
     width="300"
 />
 </p>
@@ -21,26 +21,26 @@
 </p>
 
 <p align="center">
-    preview do podcast
+    Ouça agora o Podcast
+    <a href="https://github.com/OtinielCPinheiro/Arquivos/blob/main/Podcast_Editado.MP3"> <img width="48" height="48" src="https://img.icons8.com/doodle/48/book.png" alt="book"/> Clique aqui para ouvir</a>
+    
 </p>
 
 <div align="center">
-    <audio src="output/podcast_editado.MP3" controls title="Podcast editado"></audio>
+    <audio src="https://github.com/OtinielCPinheiro/Arquivos/blob/main/Podcast_Editado.MP3" controls title="Podcast editado"></audio>Clique aqui para ouvir</a>
 </div>
 
 # Projeto Podcast Gerado por I.A.s
 
 
- > ℹ️ **NOTE:** Este é o repositório desenvolvido durante uma live no Youtube em parceria com a [DIO](https://dio.me)
+> ℹ️ **NOTE:** Este é o repositório desenvolvido durante o curso no qual fui participante na plataforma da [DIO](https://dio.me)
 
-Projeto com o objetivo de gerar um podcast utilizando ferramentas de IA através de prompts mais trabalhado.
-
-Utilizer uma esteira de prompts para gerar cada etapa do processo criativo.
+Projeto com o objetivo de gerar um podcast, utilizando ferramentas de IA através de prompts mais trabalhado.
 
 ## 💻 Tecnologias utilizadas no projeto
 
-- [ChatGPT](https://chat.openai.com/) 
-- [MidJourney](https://www.midjourney.com/app/)
+- [ChatGPT](https://chat.openai.com/)
+- [Microsoft Copilot](https://copilot.microsoft.com/)
 - [ElevenLabs](https://beta.elevenlabs.io/)
 - [Capcut](https://www.capcut.com/pt-br/)
 
@@ -48,47 +48,38 @@ Utilizer uma esteira de prompts para gerar cada etapa do processo criativo.
 
 - Roteiro gerado via chatgpt
 - Audio gerado pela elevenLabs
-- Midjourney Para gerar capas
+- Microsoft Copilot para gerar as imagens
 - Capcut para tratar aúdio e adicionar sons de fundo
 
 ## 📚 Materiais
 
 - [Link da live no Youtube](https://www.youtube.com)
-- [Notion Template](https://helpful-jump-17b.notion.site/PAS-Podcast-AI-Studio-210489e15d7a4a73b743bb159e45d06f?pvs=4)
+
 - [Editor de aúdio](https://www.capcut.com/editor?from_page=landing_page&__action_from=picture_V%C3%ADdeos%20profissionais%20em%20minutos,%20n%C3%A3o%20em%20horas.)
 
-
-## 🛠️ Instruções de execução
-
-Utilize os prompts dentro do link do `Notion` fornecido na parte de `Materiais` para criar um podcast de maneira automatizada, para isso siga o passo a passo abaixo.
-
-- 🤖 1. Use os prompts de roteiro no `chagpt`
-- 🤖 2. Use os prompts de roteiro gerados pelo chatgpt no  `ElevenLabs`
-- 🤖 3. Use os prompts de artes no `midjourney`
-
-## 👨‍💻 Expert
+## 👨‍💻 Aluno
 
 <p>
     <img 
       align=left 
       margin=10 
       width=80 
-      src="https://avatars.githubusercontent.com/u/37452836?v=4"
+      src="https://github.com/OtinielCPinheiro/Imagens/blob/main/A%20man%20with%20brown%20skin%2C%20short%20hair%20and%20beard%2C%20brown%20eyes%2C%20in%20a%20standard%20corporate%20suit%2C%20with%20a%20friendly%20facial%20expression%20and%20apparent%20willingness%20to%20record%20a%20podcast%2C%20giving%20tips%20on%20Corporate%20Communication%20and%20%20(1).png"
     />
-    <p>&nbsp&nbsp&nbspFelipe Aguiar<br>
+    <p>&nbsp&nbsp&nbspOtiniel Pinheiro<br>
     &nbsp&nbsp&nbsp
     <a 
-        href="https://github.com/felipeAguiarCode">
+        href="https://github.com/OtinielCPinheiro">
         GitHub
     </a>
     &nbsp;|&nbsp;
     <a 
-        href="www.linkedin.com/in/felipe-exe">
+        href="https://www.linkedin.com/in/otiniel-pinheiro-95499479/">
         LinkedIn
     </a>
     &nbsp;|&nbsp;
     <a 
-        href="https://www.instagram.com/felipeaguiar.exe/">
+        href="https://www.instagram.com/otiniel.pinheiro/">
         Instagram
     </a>
     &nbsp;|&nbsp;</p>
@@ -98,4 +89,4 @@ Utilize os prompts dentro do link do `Notion` fornecido na parte de `Materiais` 
 
 ---
 
-⌨️ com 💜 por [Felipe Aguiar](https://github.com/felipeAguiarCode)
+⌨️ Por [Otiniel Pinheiro](https://github.com/OtinielCPinheiro)

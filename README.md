@@ -21,20 +21,8 @@
 </p>
 
 <p align="center">
-    Ouça agora o Podcast
-    <!DOCTYPE html>
-<html lang="pt-BR">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Reprodutor de Música</title>
-</head>
-<body>
-    <audio controls>
-        <source src="https://github.com/OtinielCPinheiro/Arquivos/raw/main/Podcast_Editado.MP3" type="audio/mp3">
-            </audio>
-</body>
-</html>
+    
+<iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/2018872257&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/otiniel-pinheiro" title="Otiniel Pinheiro" target="_blank" style="color: #cccccc; text-decoration: none;">Otiniel Pinheiro</a> · <a href="https://soundcloud.com/otiniel-pinheiro/0126flac" title="0126.FLAC" target="_blank" style="color: #cccccc; text-decoration: none;">0126.FLAC</a></div>
     
 </p>
 

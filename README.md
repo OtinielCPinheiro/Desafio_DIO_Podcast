@@ -40,7 +40,8 @@ Projeto com o objetivo de gerar um podcast, utilizando ferramentas de IA atravé
 - [Microsoft Copilot](https://copilot.microsoft.com/)
 - [ElevenLabs](https://beta.elevenlabs.io/)
 - [Capcut](https://www.capcut.com/pt-br/)
-
+- [SoundCloud](https://soundcloud.com/discover)
+  
 ## ✨ Como foi feito ?
 
 - Roteiro gerado via chatgpt

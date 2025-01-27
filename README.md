@@ -48,6 +48,7 @@ Projeto com o objetivo de gerar um podcast, utilizando ferramentas de IA atravé
 - Audio gerado pela elevenLabs
 - Microsoft Copilot para gerar as imagens
 - Capcut para tratar aúdio e adicionar sons de fundo
+- SoundCloud utilizado com plataforma para hospedagem e player para reprodução do arquivo.
 
 ## 📚 Materiais
 
